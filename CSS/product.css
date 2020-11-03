@@ -1,0 +1,42 @@
+#content{
+  padding: 0 50px;
+  font-family: 'Montserrat', sans-serif;
+  position: relative;
+  top: 80px;
+
+}
+a{
+  text-decoration: none;
+}
+.card-link-secondary{
+
+}
+.minus{
+
+}
+.brand{
+  width:120px;
+}
+.navbar{
+position: fixed;
+z-index: 10;
+width: 100%;
+top: 0;
+}
+.nav-link{
+  font-family: 'Open Sans', sans-serif;
+  color: #413e66;
+  font-weight: 600;
+}
+.nav-link:hover{
+  color: #1bb1dc;
+}
+.toggler{
+color:  #1bb1dc;
+}
+.items{
+
+}
+.checkout{
+  background-color: #1bb1dc;
+}

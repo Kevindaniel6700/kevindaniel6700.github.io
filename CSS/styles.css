@@ -1,0 +1,163 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+
+/* navbar */
+.brand{
+  width: 120px;
+  height: 43px;
+}
+.navbar{
+position: fixed;
+z-index: 10;
+width: 100%;
+}
+.nav-link{
+  font-family: 'Open Sans', sans-serif;
+  color: #413e66;
+  font-weight: 600;
+}
+.nav-link:hover{
+  color: #1bb1dc;
+}
+.toggler{
+color:  #1bb1dc;
+}
+.search-engine{
+
+}
+
+
+/* carousel */
+
+#welcomepg{
+  background-color: #f1f6f9;
+  text-align: center;
+    padding:5% 0 6%;
+
+}
+h1{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 48px;
+color: #413e66;
+font-weight:900;
+  }
+  .e-bazzar{
+    color: #1bb1dc;
+  }
+  .intro-logo{
+    width: 450px;
+    height: 450px;
+  }
+  .row1{
+    padding:8% 10%;
+  }
+.explore-btn{
+  width: 250px;
+  height: 80px;
+  margin-top: 5%;
+}
+
+
+/* shopping-item */
+.card{
+  border-style: none;
+}
+
+
+a{
+  text-decoration: none;
+  color: black;
+}
+a:hover{
+  text-decoration: none;
+  color: black;
+}
+.shopping-item{
+ padding: 5% 7%;
+  padding-right: 0;
+}
+.shopping-products{
+  margin:1%;
+}
+.products{
+margin: 0;
+
+}
+.card-body{
+  text-align: center;
+}
+.food-products{
+
+}
+.gadget-img{
+  height: 209px;
+}
+.dairy-img{
+  height: 185px;
+}
+.grocery-products{
+  height: 173px;
+}
+.stationary-products{
+  height: 209px;
+}
+.fashion-products{
+  height:174px;
+}
+
+
+/* cta */
+
+  #cta{
+    background-color:#f1f6f9;
+    padding: 7% 19%;
+    text-align: center;
+  }
+  .cta-h3{
+    font-family:"Montserrat";
+    font-size:3.5rem;
+    line-height: 1.5;
+    font-weight: 900;
+  color: #413e66;
+  }
+
+  .ios{
+  margin:5% 3% 5% 0;
+  }
+  .android{
+    margin:5% 3% 5% 0;
+    background-color: #1bb1dc;
+  }
+
+
+/* footer */
+
+.footer-p{
+  color: grey;
+}
+.footer-logo{
+  margin: 60px 8px 8px 8px;
+}
+.form-row{
+  text-align: left;
+}
+#footer{
+  background-color: #fff;
+  padding: 7% 19%;
+text-align: center;
+}
+.footer-submit{
+  background-color: #1bb1dc;
+}
+@media (min-width:1420px) {
+  .card-img-top{
+    width: 323px;
+    height: 235px;
+  }
+
+}

@@ -1,0 +1,60 @@
+.card{
+border-radius: 15px;
+}
+.container{
+  padding: 5% 0;
+}
+body{
+color: black;
+}
+a{
+  text-decoration: none;
+  color: black;
+}
+a:hover{
+  text-decoration: none;
+  color: black;
+}
+h1,h2,h3,h4,h5,h6{
+
+}
+
+.brand{
+  width:120px;
+}
+.navbar{
+position: fixed;
+z-index: 10;
+width: 100%;
+top: 0;
+}
+.nav-link{
+  font-family: 'Open Sans', sans-serif;
+  color: #413e66;
+  font-weight: 600;
+}
+.nav-link:hover{
+  color: #1bb1dc;
+}
+.toggler{
+color:  #1bb1dc;
+}
+h1{
+  text-align: center;
+}
+.open{
+      color: #79d70f;
+      display: inline-block;
+      margin-right: 80px;
+}
+.content{
+  padding:5% 14%;
+  position: relative;
+  top: 50px;
+}
+.card{
+  margin-top: 30px;
+}
+.btn{
+      background-color: #1bb1dc;
+}
